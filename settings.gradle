@@ -1,0 +1,2 @@
+rootProject.name = "ImageOppener4"
+include ':app'
